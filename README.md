@@ -31,4 +31,4 @@ Profile Activity.
 this activity. In My Profile activity, onActivityResult(), load the image and the other
 data in the corresponding EditTexts to allow the user to edit them.
 
-<img src="./ss.png"/>
+<img src="profile.png"/>
