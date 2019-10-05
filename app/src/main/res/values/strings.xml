@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="selectimage">select image</string>
+    <string name="favatar1">favatar1</string>
+    <string name="mavatar1">mavatar1</string>
+    <string name="mavatar2">mavatar2</string>
+    <string name="mavatar3">mavatar3</string>
+    <string name="favatar2">favatar2</string>
+    <string name="favatar3">favatar3</string>
+    <string name="textView1">First Name</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="studentId">Student ID</string>
+    <string name="textViewDepartment">Department</string>
+    <string name="rbutton1">CS</string>
+
+    <string name="rbutton2">SIS</string>
+    <string name="rbutton3">BIO</string>
+    <string name="rbutton4">Other</string>
+    <string name="textViewDepartment2">Department</string>
+    <string name="saveButton">Save</string>
+    <string name="imagedisplay">Displayed Image</string>
+    <string name="Name">Name:</string>
+    <string name="studentId2">Student ID:</string>
+    <string name="Department">Department:</string>
+    <string name="buttondisplay">Edit</string>
+    <string name="fullname">fullname</string>
+    <string name="studentiddisplay">studentIdDisplay</string>
+    <string name="departmentdisplay">DepartmentDisplay</string>
+    <string name="save">Save</string>
+    <string name="DisplayMyProfile">Display My Profile</string>
+    <string name="SelectAvatar">Select Avatar</string>
+    <string name="myavatar">My Avatar</string>
+
+</resources>
